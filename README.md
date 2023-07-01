@@ -1,1 +1,1 @@
-# amongus
+# Among us adventures
